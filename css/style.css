@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playwrite+NZ+Guides&display=swap');
+div{
+    /* Color */
+    background-color: aqua;
+    color:brown;
+    /* width Height */
+    width:100%;
+    max-width: 70vw;
+    height: 100vh;
+    /* font  */
+    font-size: 25px;
+    font-weight:bold;
+    font-family:noto,serif,sans-serif;
+    /* BORDER */
+    border:10px ,Solid, palevioletred;
+}
