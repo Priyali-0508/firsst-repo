@@ -1,6 +1,7 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Playwrite+NZ+Guides&display=swap');
 
-
+  
 div{
     /* Color */
     background-color: aqua;
@@ -36,4 +37,17 @@ p{
 /* most priority */
 #Paraa-2{
     color:red
+}
+
+
+
+/* Box model */
+.box{
+    border:10px, solid, palevioletred;
+    width: 300px;
+    height: 300px;
+    padding:10px 10px;
+    margin:8px 8px;
+    box-sizing:border-box;
+    
 }
